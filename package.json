@@ -12,6 +12,7 @@
     "@babel/node": "^7.10.5",
     "@babel/preset-env": "^7.10.4",
     "@babel/register": "^7.10.5",
+    "dotenv": "^8.2.0",
     "instagram-private-api": "^1.41.0",
     "lodash": "^4.17.19"
   }
